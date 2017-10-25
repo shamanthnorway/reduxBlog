@@ -1,4 +1,5 @@
 /node_modules
+/screenshots
 bundle.js
 npm-debug.log
 .DS_Store
